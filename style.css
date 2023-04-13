@@ -1,0 +1,42 @@
+body{
+    background: hsl(212, 45%, 89%);
+    box-sizing: border-box;
+    font-family:  'Montserrat', sans-serif;
+    text-align: center;
+}
+
+.qr-container{
+    width: 312px;
+    height: 500px;
+    background: white;
+    border-radius: 4%;
+    margin: 50px auto;
+}
+#qr-image{
+    width: 275px;
+    border-radius: 7%;
+    padding: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.text{
+    font-weight: bold;
+    font-size: 22px;
+    text-align: center;
+    color:hsl(218, 44%, 22%);
+    margin: 0 auto;
+    padding-top: 15px;
+}
+.supportive-text{
+    color:   hsl(220, 15%, 55%);
+    text-align: center;
+    font-weight:400;
+    font-size: 14.5px;
+    padding-bottom: 30px;
+}
+
+.challange{
+    margin-top: -40px;
+}

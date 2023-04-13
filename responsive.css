@@ -1,0 +1,24 @@
+
+/* mobile mode  */
+@media screen  and (max-width:499px) {
+    .qr-container{
+        width: 250px;
+        height: 400px;
+    }
+    #qr-image{
+        width: 230px;
+        display: block;
+        margin: 0 auto;
+        aspect-ratio: 1/1;
+    }
+
+    .text{
+        font-size: 18px;
+    }
+    .supportive-text{
+        font-size: 12px;
+    }
+    .challange{
+        font-size: 12px;
+    }
+}
